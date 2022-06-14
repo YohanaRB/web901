@@ -4,9 +4,6 @@ holi
 linea intermedia 
 me gusta el flan
 amo a los gallaghers
-<<<<<<< HEAD
 sigo programando
 hasta aqui
-=======
 el surimi sabe rico
->>>>>>> 0bf1d5ccc4fe9ec6b50adb69d79cc109e7e12414
